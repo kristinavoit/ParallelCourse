@@ -1,0 +1,5 @@
+C:\Users\38066\Source\Repos\ParallelCourseWork\ParallelCourseWork\bin\Debug\ParallelCourseWork.exe.config
+C:\Users\38066\Source\Repos\ParallelCourseWork\ParallelCourseWork\bin\Debug\ParallelCourseWork.exe
+C:\Users\38066\Source\Repos\ParallelCourseWork\ParallelCourseWork\bin\Debug\ParallelCourseWork.pdb
+C:\Users\38066\Source\Repos\ParallelCourseWork\ParallelCourseWork\obj\Debug\ParallelCourseWork.exe
+C:\Users\38066\Source\Repos\ParallelCourseWork\ParallelCourseWork\obj\Debug\ParallelCourseWork.pdb
