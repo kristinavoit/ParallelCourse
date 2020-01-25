@@ -1,6 +1,6 @@
 ﻿public class Constants
 {
-	public const double a = .5;
+	public const double a = .1;
 	public const double c0 = .2;
 	public const double c1 = .1;
 	public const double c2 = 3.0;
